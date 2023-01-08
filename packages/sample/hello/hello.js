@@ -1,6 +1,6 @@
 function main(args) {
-    let name = args.name || 'vreemde'
-    let greeting = 'Hallo ' + name + '!'
+    let name = args.name || 'stranger!'
+    let greeting = 'Hello ' + name + '!'
     console.log(greeting)
     return {"body": greeting}
   }
