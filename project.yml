@@ -1,5 +1,5 @@
 packages:
   - name: sample
     actions:
-      - name: hello
+      - name: hallo
         runtime: 'nodejs:default'
